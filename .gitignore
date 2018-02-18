@@ -1,0 +1,6 @@
+/target/
+.classpath
+.project
+.settings/*
+*.key
+SERVER_CERT
